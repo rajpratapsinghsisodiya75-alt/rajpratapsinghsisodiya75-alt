@@ -8,7 +8,7 @@
 * 💻 Passionate about Software Development and its real world analogy
 * 🌱 Currently learning **Data Structures & Algorithms, Cloud Computing, DataBase and Management System, Machine Learning**
 * 🏆 Solved problems on LeetCode and continuously improving problem-solving skills
-* 📫 Reach me at: **[rajpratapsinghsisodiya75@gmail.com]**
+* 📫 Reach me at: **rajpratapsinghsisodiya75@gmail.com**
 
 ---
 
