@@ -5,31 +5,27 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 Computer Science and Engineering Student
-* 💻 Passionate about Software Development and System Design
-* 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, Reinforcement Learning, System Design, and Full Stack Development**
-* 🚀 Building projects in **AI, Vehicle Edge Computing, and Distributed Systems**
+* 💻 Passionate about Software Development and its real world analogy
+* 🌱 Currently learning **Data Structures & Algorithms, Cloud Computing, DataBase and Management System, Machine Learning**
 * 🏆 Solved problems on LeetCode and continuously improving problem-solving skills
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[rajpratapsinghsisodiya75@gmail.com]**
 
 ---
 
 ## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/rajpratapsinghsisodiya75-alt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rajpratapsinghsisodiya75--alt-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<p align="left">
-<a href="https://github.com/rajpratapsinghsis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+  <a href="https://www.linkedin.com/in/raj-pratap-singh-sisodiya-b1692a246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Pratap%20Singh%20Sisodiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
+  <a href="mailto:rajpratapsinghsisodiya75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
-
----
 
 # 💻 Tech Stack
 
@@ -38,7 +34,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+
 
 ---
 
@@ -46,15 +42,15 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
 ### Backend & Database
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge\&logo=express)
+
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
@@ -73,7 +69,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
@@ -81,11 +76,11 @@
 # 📚 Currently Learning
 
 * Advanced Data Structures and Algorithms
-* System Design
+* Cloud Computing
 * Reinforcement Learning
 * Distributed Systems
-* Cloud Computing
-* Microservices Architecture
+* Machine Learning
+  
 
 ---
 
@@ -95,13 +90,14 @@
 
 Intelligent Task Offloading in Vehicle Edge Computing using Deep Reinforcement Learning.
 
-### 📄 Paper Summarizer using LLMs
+### 📄 CriSense
 
-NLP project for automatic document summarization using Large Language Models.
+Developed a TF-IDF + Logistic Regression model on 77K+ records, achieving an F1-score of 0.84 for accurate crisis
+detection.
 
-### 🌐 Full Stack Web Applications
+### 🌐 Project Management Dashboard & Resource Tracking System 
 
-Building scalable applications using React, Node.js, and MongoDB.
+Designed analytics and reporting features to track project progress, resource utilization, and overall team productivity.
 
 ---
 
