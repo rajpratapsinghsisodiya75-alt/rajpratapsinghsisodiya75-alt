@@ -107,19 +107,19 @@ Building scalable applications using React, Node.js, and MongoDB.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpratapsinghsis\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratapsinghsis\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpratapsinghsisodiya75-alt&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajpratapsinghsis\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratapsinghsisodiya75-alt&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajpratapsinghsisodiya75-alt&theme=tokyonight)
 ---
 
 # 🏆 Coding Profiles
 
 * 💻 LeetCode
 * 🥇 CodeChef
-* 🧠 GeeksforGeeks
 * 🚀 HackerRank
 
 ---
